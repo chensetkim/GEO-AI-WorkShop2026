@@ -35,6 +35,11 @@ course material for khon kaen
 </a>
 
 ### Foundation Model Fine-tuning
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day3/Excercise/FoundationAI.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github.com/chensetkim/GEO-AI-WorkShop2026/blob/master/project1/Alv_lulc.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Flood"/>
+</a>
+
+### Mini project
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day3/Excercise/GenAI.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="GenAI"/>
 </a>
