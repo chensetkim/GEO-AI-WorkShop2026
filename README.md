@@ -40,6 +40,6 @@ course material for khon kaen
 </a>
 
 ### Mini project
-<a target="_blank" href="https://colab.research.google.com/github.com/chensetkim/GEO-AI-WorkShop2026/tree/master/project1/Alv_lulc.ipynb">
+<a target="_blank" href="https://githubtocolab.com/chensetkim/GEO-AI-WorkShop2026/blob/master/project1/Alv_lulc.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Flood"/>
 </a>
